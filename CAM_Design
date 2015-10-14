@@ -82,7 +82,7 @@ J = omega^3*h*[ytrplprise/betarise^3 ytrplphighdwell ytrplpfall/betafall^3 ytrpl
 % Norton's velocity
 v = V(1,:)/omega;
 % Norton's acceleration
-a = V(1,:)/omega^2;
+a = A(1,:)/omega^2;
 % Epsilon is the eccentricity, or the offset of the CAM w/ respect to
 % the follower
 Epsilon = 0;
